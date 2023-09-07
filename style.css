@@ -86,12 +86,12 @@ color: white;
 }
 
 .gallery-item {
-    height: 600px;
-    width: auto;
+    height: auto;
+    width: 600px;
 }
 
 .gallery {
-    padding: 150px;
+    padding: 150px 0px;
 
 }
 
@@ -102,6 +102,11 @@ box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 cursor: pointer;
 }
 
+#gallery-popup .modal-img {
+    width: 100%;
+}
+
 .img {
 max-width: 100%;
 }
+
