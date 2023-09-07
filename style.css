@@ -20,8 +20,8 @@
 
 .bg-image{
     background-image: url("img/bg-camera-s.jpg");
-
-    background-size: cover;
+    background-attachment: fixed;
+    background-size:cover;
     padding-top: 200px;
     padding-bottom: 200px;
 }
@@ -32,4 +32,14 @@
     font-size: 20px;
     
 }
+
+.c-item {
+    height: 600px;
+}
+
+.c-img {
+    height: 100%;
+    object-fit:cover;
+}
+
 
