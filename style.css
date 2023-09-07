@@ -1,3 +1,8 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
 .nav-link {
     position: relative;
 }
@@ -43,3 +48,28 @@
 }
 
 
+.indexabout {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 2px;
+text-align: center;
+color: white;
+}
+
+.aboutme {
+    text-align: center;
+padding-top: 2px;
+padding-bottom: 40px;
+background-color: #212529;
+padding-left: 30px;
+font-size: 25px;
+color: white;
+}
+
+.contactus {
+    color: grey;
+}
+
+.mright {
+    margin-right:40px;
+}
