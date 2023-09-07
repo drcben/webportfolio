@@ -1,1 +1,2 @@
-This is going to be a webportfolio for a photographer/videographer.
+Photographer portfolio.
+(learning git and refreshing how to use html/css/bootstrap)
