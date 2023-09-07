@@ -87,13 +87,18 @@ color: black;
     width: auto;
 }
 
+.galleryh2 {
+    padding-top: 150px;
+    text-align: center;
+}
+
 .gallery-item {
     height: auto;
     width: 600px;
 }
 
 .gallery {
-    padding: 150px 0px;
+    padding: 70px 0px;
 
 }
 
