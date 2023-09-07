@@ -1,2 +1,2 @@
 Photographer portfolio.
-(learning git and refreshing how to use html/css/bootstrap)
+(learning git and refreshing my knowledge on html/css/bootstrap)
