@@ -24,20 +24,28 @@
 }
 
 .bg-image{
-    background-image: url("img/bg-camera-s.jpg");
+    background-image: url("img/bg-camera-m.jpg");
     background-attachment: fixed;
     background-size:cover;
+    background-position: -20px;
     padding-top: 200px;
     padding-bottom: 200px;
 }
 
+.h2text {
+    color: orange;
+    padding-bottom: 20px;
+}
 
+.homepagetext {
+    padding-top: 60px;
+}
 
 .imgtext {
     text-align: center;
     color:white;
     font-size: 20px;
-    
+    padding-top: 50;
 }
 
 .c-item {
