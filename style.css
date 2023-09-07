@@ -73,3 +73,35 @@ color: white;
 .mright {
     margin-right:40px;
 }
+
+
+.margintop {
+    margin-top: 100px;
+}
+
+
+.imgsize {
+    height: 700px;
+    width: auto;
+}
+
+.gallery-item {
+    height: 600px;
+    width: auto;
+}
+
+.gallery {
+    padding: 150px;
+
+}
+
+.gallery img {
+padding: 15px;
+width: 100%;
+box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+cursor: pointer;
+}
+
+.img {
+max-width: 100%;
+}
