@@ -27,7 +27,7 @@
     background-image: url("img/bg-camera-m.jpg");
     background-attachment: fixed;
     background-size:cover;
-    background-position: -20px;
+    background-position: 0px;
     padding-top: 200px;
     padding-bottom: 200px;
 }
