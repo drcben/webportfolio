@@ -23,14 +23,19 @@
     opacity: 1;
 }
 
+
 .bg-image{
     background-image: url("img/bg-camera-m.jpg");
     background-attachment: fixed;
+    background-position: center center;
     background-size:cover;
-    background-position: 0px;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 600px;
     padding-top: 200px;
     padding-bottom: 200px;
 }
+
 
 .h1text {
     color: orange;
